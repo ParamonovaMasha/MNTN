@@ -140,7 +140,7 @@ span h1 {
   position: relative;
 }
 .layers__nav .acc::before {
-  content: url("/img/cart.png");
+  content: url("img/cart.png");
   left: -30px;
   top: 2px;
   position: absolute;
@@ -173,7 +173,7 @@ span h1 {
   position: relative;
 }
 .layers__hero .slider::after {
-  content: url("/img/Slider.png");
+  content: url("img/Slider.png");
   position: absolute;
   top: -30px;
   left: 50px;
@@ -254,7 +254,7 @@ span h1 {
   text-transform: uppercase;
 }
 .content-cell .start-text::before {
-  content: url("/img/Line.png");
+  content: url("img/Line.png");
   position: absolute;
   margin-top: -5px;
   margin-left: -100px;
@@ -265,14 +265,14 @@ span h1 {
   color: #fbd784;
 }
 .content-cell p a::after {
-  content: url("/img/arrow_downward_24px.png");
+  content: url("img/arrow_downward_24px.png");
   position: absolute;
   margin-left: 15px;
   margin-top: 5px;
 }
 
 .content-cell::before {
-  content: url("/img/Equipment.svg");
+  content: url("img/Equipment.svg");
   position: absolute;
   left: -230px;
   top: 150px;
@@ -294,14 +294,14 @@ span h1 {
 }
 
 .content-cell__2 .content-text::before {
-  content: url("/img/Equipment1.svg");
+  content: url("img/Equipment1.svg");
   position: absolute;
   left: 350px;
   top: 20px;
 }
 
 .content-cell__3::before {
-  content: url("/img/Equipment2.svg");
+  content: url("img/Equipment2.svg");
   left: -270px;
 }
 
