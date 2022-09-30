@@ -62,6 +62,7 @@ body a {
   height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
+   text-shadow: 0 0 15px #3c6881;
 }
 
 .main-header::after {
